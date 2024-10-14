@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+h1 {
+    text-align: center;
+    background-color: red;
+    margin-top: 0;
+    border-radius: 0px 0px  20px  20px ;
+}
+.container {
+    display: flex;
+}
+img {
+    width: 100px;
+    margin: 20px;
+}
+h4 i {
+    color: red;
+
+}
+a {
+    text-decoration: none;
+}
+a:visited {
+    color: blue;
+}
